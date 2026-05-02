@@ -23,6 +23,10 @@ A modern cross-platform Notes application built using **Expo** and **React Nativ
 
 ---
 
+## Screenshots
+Output: https://github.com/user-attachments/assets/1c40010c-21d6-4661-bcaf-6ee26c3a159b
+
+
 ## 📦 Installation & Setup
 
 ```bash
